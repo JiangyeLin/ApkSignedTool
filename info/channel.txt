@@ -1,0 +1,30 @@
+official
+tencent_yingyongbao	    #腾讯应用宝
+xiaomi_app_store	    #小米应用商店
+s360_market		        #360市场
+baidu_shouji_zhushou	#百度手机助手
+a_91_market		        #91市场
+lenovo_dev_platform	    #联想开放平台
+anzhi_market		    #安智市场
+yingyonghui		        #应用汇
+jifeng_market		    #机锋市场
+mumayi			        #木蚂蚁
+youyi_market		    #优亿市场
+chuizi_app_store	    #锤子应用商店
+meizu_app_store		    #魅族应用商店
+huawei_dev_union	    #华为开发者联盟
+ali_yingyong		    #PP 阿里应用分发平台
+sougou_zhushou		    #搜狗手机助手
+vivo_dev_platform	    #vivo开发者平台
+oppo_dev_platform	    #oppo开发者
+app_samsung		        #三星
+yongyu_market		    #新增
+app_wanpu		        #新增
+biyongbao_market        #币用宝
+VeeStore
+app_baiduss		        #陈吉 渠道包
+BeeStore
+qukuailian		        #区块链
+imapp
+chainstore
+bbcall
